@@ -7,7 +7,7 @@ export default function Contact() {
   return (
     <section id="contact" className="py-20 bg-gray-900 text-white">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl font-bold text-center mb-16">Get In Touch</h2>
+        <h2 className="text-4xl font-bold text-center mb-10">Get In Touch</h2>
         <div className="max-w-2xl mx-auto text-center">
           <p className="text-xl mb-8">
             I'm currently looking for new opportunities. Whether you have a
@@ -37,7 +37,7 @@ export default function Contact() {
               <FaEnvelope className="w-8 h-8" />
               <span>hs541156@gmail.com</span>
             </div>
-            
+
             <div className="flex flex-col items-center gap-2 hover:text-blue-400 transition-colors">
               <PiPhone className="w-8 h-8" />
               <span>+91 88261 41160</span>
